@@ -1,4 +1,4 @@
-# Los Angeles County Coroner Scraper
+# [Los Angeles County Coroner Scraper](https://github.com/shirshod/la_countycoroner_scraper/blob/main/la_countycoroner_scraper.ipynb)
 
 By: Shirsho Dasgupta (2019; last scrape: October 6, 2021)
 
